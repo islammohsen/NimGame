@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(25): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(31): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(114): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1282): note: see declaration of '_sleep'
+c:\users\eslam mohsen\documents\visual studio 2017\projects\nim game\nim game\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Nim Game.vcxproj -> C:\Users\Eslam Mohsen\Documents\Visual Studio 2017\Projects\Nim Game\Debug\Nim Game.exe
+  Nim Game.vcxproj -> C:\Users\Eslam Mohsen\Documents\Visual Studio 2017\Projects\Nim Game\Debug\Nim Game.pdb (Partial PDB)
